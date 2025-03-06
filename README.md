@@ -2,6 +2,8 @@
 
 HICSS 58 Minitrack in the Research Track: Decision Analytics and Service Science 
 
+[Proceedings of HICSS 58](https://scholarspace.manoa.hawaii.edu/collections/5c0c6844-1bfc-475b-bbc1-c5c1768f1fad)
+
 ## Description
 
 Artificial Intelligence (AI) has revolutionized the management of connectivity between devices and sensors, enabling more effective problem analysis, risk mitigation, and deeper insights into complex systems. The integration of AI into manufacturing and infrastructure enhances decision-making by detecting anomalies, assessing risks, and triggering appropriate responses based on the risk level. Significant progress has been made in developing AI-driven methods and models to improve the accuracy of problem identification within large datasets, empowering experts with actionable insights.
@@ -38,11 +40,5 @@ This minitrack aims to foster innovation in AI applications, providing cutting-e
 * Daniele Cesini, INFN CNAF, daniele.cesini@cnaf.infn.it
 * Luca dell’Agnello, INFN CNAF, luca.dellagnello@cnaf.infn.it
 
-## Important Dates
 
-* June 15, 2024 | 11:59 pm HST – Paper Submission Deadline
-* August 17, 2024 | 11:59 pm HST – Notification of Acceptance/Rejection
-* September 22, 2024 | 11:59 pm HST – Deadline for Submission of Final Manuscript for Publication
-* October 1, 2024 | 11:59 pm HST – Deadline for at least one author to register for HICSS-59
 
-For more information, please visit the [conference website](https://hicss.hawaii.edu/).
